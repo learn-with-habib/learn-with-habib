@@ -111,7 +111,7 @@ I am a passionate computer science. I have been teaching programming languages, 
 1. Studing at Sreemangal Govt College.
 2. HSC from Sreemangal Govt College  
    Moulvibazar, Sylhet.
-3. JSC & SSC from Hoolia High School  
+3. JSC & SSC from Huglia High School  
    Sylhet, Bangladesh.
 
 <br />
@@ -190,3 +190,4 @@ All rights reserved by Md Habibur Rahman @2025
 <!-- cse related playlists ends here  -->
 
 <!-- Links section ends here -->
+
