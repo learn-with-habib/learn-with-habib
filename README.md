@@ -9,7 +9,7 @@ Full-Stack web developer
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" target="_blank"/>][website]
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
@@ -157,8 +157,8 @@ All rights reserved by Md Habibur Rahman @2025
 
 <!-- Links section starts here -->
 
-[website]: https://habib.rf.gd/
-[youtube]: (https://www.youtube.com/@LearnWithHabib-Official){:target="_blank"}
+[website](https://habib.rf.gd){:target="_blank"}
+[youtube](https://www.youtube.com/@LearnWithHabib-Official){:target="_blank"}
 [facebook]: https://www.facebook.com/xhabibur/
 [linkedin]: https://www.linkedin.com/in/
 [github]: https://github.com/learn-with-habib
@@ -190,6 +190,7 @@ All rights reserved by Md Habibur Rahman @2025
 <!-- cse related playlists ends here  -->
 
 <!-- Links section ends here -->
+
 
 
 
