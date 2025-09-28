@@ -158,7 +158,7 @@ All rights reserved by Md Habibur Rahman @2025
 <!-- Links section starts here -->
 
 [website]: https://habib.rf.gd/
-[youtube]: https://www.youtube.com/c/learn-with-habib
+[youtube]: https://www.youtube.com/@learn-with-habib
 [facebook]: https://www.facebook.com/xhabibur/
 [linkedin]: https://www.linkedin.com/in/
 [github]: https://github.com/learn-with-habib
@@ -190,4 +190,5 @@ All rights reserved by Md Habibur Rahman @2025
 <!-- cse related playlists ends here  -->
 
 <!-- Links section ends here -->
+
 
